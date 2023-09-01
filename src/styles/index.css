@@ -10,3 +10,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.circule {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.lighcolorred {
+    background-color: red;
+}
+.lighcolororange {
+    background-color: orange;
+}
+.lighcolorgreen {
+    background-color: #009826;
+}   
+.shadowred {
+    box-shadow: 0px 2px 20px 17px red !important;
+}
+.shadoworange {
+    box-shadow: 0px 2px 20px 17px #ff6200 !important;
+}
+.shadowgreen {
+    box-shadow: 0px 2px 20px 17px #009826 !important;
+}
+.box {
+    background: black;
+}
