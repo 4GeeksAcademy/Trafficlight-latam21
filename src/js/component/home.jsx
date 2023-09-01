@@ -8,7 +8,7 @@ import "../../styles/index.css";
 const Home = () => {
 	const [activeLigh, setActiveLigh] = useState("");
 	return (
-		<div className="text-center">
+		<div className="container">
 			<div className="support"></div>
 			<div className="box">
 				<div>
